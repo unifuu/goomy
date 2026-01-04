@@ -1,3 +1,3 @@
 # Goomy
 
-A Flutter app for uploading photos to a remote server.
+A Flutter app for capturing and uploading photos to a remote server.
